@@ -1,0 +1,4 @@
+{
+    "http_port": 7070,
+    "grpc_port": 6070
+}

@@ -1,0 +1,7 @@
+{
+    "name": "wine-classifier",
+    "implementation": "mlserver_sklearn.SKLearnModel",
+    "parameters": {
+        "uri": "../models/my_model.joblib"
+    }
+}

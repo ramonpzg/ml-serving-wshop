@@ -1,0 +1,8 @@
+{
+    "name": "cali_model",
+    "implementation": "mlserver_sklearn.SKLearnModel",
+    "parameters": {
+        "uri": "../models/california_housing_model.joblib",
+        "version": "v0.1.0"
+    }
+}

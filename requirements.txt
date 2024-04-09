@@ -1,0 +1,9 @@
+ipykernel
+requests
+mlserver
+mlserver_sklearn
+huggingface-hub
+ipywidgets
+llama-cpp-python
+spacy
+wikipedia-api

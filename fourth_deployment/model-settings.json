@@ -1,0 +1,4 @@
+{
+    "name": "llama_qwen",
+    "implementation": "qwen_model.MyKulModel"
+}
